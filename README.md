@@ -1,0 +1,1 @@
+# plugins-event-organiser-posterboard
